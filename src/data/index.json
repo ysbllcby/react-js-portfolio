@@ -1,0 +1,119 @@
+{
+    "skills": [
+        {
+        "id": 1,
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+    }, 
+    {
+        "id": 2,
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+    },
+    {
+        "id": 3,
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+    },
+    {
+        "id": 4,
+        "src": "./img/feather-pen-1.png",
+        "title": "Web Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+    }
+    ],
+    "portfolio": [
+        {
+        "id": 1,
+        "src": "./img/placeholder-image.png",
+        "title": "Ahuse",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.",
+        "link": "View in GitHub"
+
+    }, 
+    {
+        "id": 2,
+        "src": "./img/placeholder-image-1.png",
+        "title": "App Dashboard",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.",
+        "link": "View in GitHub"
+    },
+    {
+        "id": 3,
+        "src": "./img/placeholder-image-2.png",
+        "title": "UI & UX Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.",
+        "link": "View in GitHub"
+    }
+    ],
+    "education": [
+        {
+        "id": 1,
+        "src": "./img/sait.png",
+        "school": "Southern Alberta Institute of Technology",
+        "course": "Diploma in Information Technology Major in Software Development",
+        "date": "May 2022 - December 2023",
+        "grade": "GPA: 3.97/4.00"
+
+    }, 
+    {
+        "id": 2,
+        "src": "./img/pup.png",
+        "school": "Polytechnic Unversity of the Philippines",
+        "course": "Bachelor of Science in Hospitality Management",
+        "date": "June 2011 - April 2015",
+        "grade": "GPA: 3.80/4.00"
+    }
+    ],
+    "experience": [
+        {
+        "id": 1,
+        "src": "./img/twbs.jpg",
+        "company": "The Wild Bird Store",
+        "location": "Calgary, AB",
+        "position": "Social Media Coordinator/ Web Support",
+        "date": "August 2023 - Present",
+        "description": "Handle the company's social media platforms such as Facebook, Instagram, and Twitter. Create and schedule posts for the company's social media platforms. Create and update the company's website using WordPress."
+
+    }, 
+    {
+        "id": 2,
+        "src": "./img/tims.png",
+        "company": "Tim Hortons",
+        "location": "Calgary, AB",
+        "position": "Baker",
+        "date": "July 2021 - March 2022",
+        "description": "Accountable for freshness of all baked products, ensure accuracy in food production report and wastage reports, inform restaurant manager for running out products."
+    }, 
+    {
+        "id": 3,
+        "src": "./img/tims.png",
+        "company": "Tim Hortons",
+        "location": "Sundre, AB",
+        "position": "Supervisor",
+        "date": "February 2019 - August 2020",
+        "description": "Accountable for daily shift, oversees all employees are practicing proper food handling practices, ensures store is clean before endorsement and tracking of daily wastages."
+    }, 
+    {
+        "id": 4,
+        "src": "./img/cs.jpg",
+        "company": "Classic Savory",
+        "location": "Antipolo City, Philippines",
+        "position": "Assistant Restaurant Manager",
+        "date": "March 2017 - November 2019",
+        "description": "Accountable for daily operations, ensure proper food handling is always practiced, monthly reports, yearly reporting, and ensure customer satisfaction."
+    }, 
+    {
+        "id": 5,
+        "src": "./img/ph.png",
+        "company": "Pancake House",
+        "location": "Antipolo City, Philippines",
+        "position": "Shift Manager (Overall Inchanrge)",
+        "date": "June 2015 - February 2017",
+        "description": "Accountable for daily operations, ordering of stocks, inventory, quarterly business review, ensure proper food-handling is always practiced and tracking of store yearly maintenance."
+    }
+    ]
+}

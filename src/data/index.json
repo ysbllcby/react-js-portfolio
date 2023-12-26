@@ -4,25 +4,118 @@
         "id": 1,
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+        "description": "Crafting engaging user experiences with HTML, CSS, and JavaScript. Proficient in design tools like Figma and Adobe XD, I bring a keen eye for user interface aesthetics. My projects often involve frameworks such as jQuery and Bootstrap, creating visually appealing and responsive web applications. Additionally, I leverage my skills in Canva for dynamic content creation, enhancing the visual aspects of social media platforms."
     }, 
     {
         "id": 2,
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+        "description": "I excel in languages like Java and C#, developing robust systems and ensuring seamless functionality. Frameworks such as ASP .NET and my expertise in databases, including MySQL, MongoDB and Firebase Database contribute to the foundation of scalable and efficient applications. Git, Visual Studio, Azure, and Jira are integral parts of my development toolkit, facilitating collaborative and streamlined project management processes."
     },
     {
         "id": 3,
         "src": "./img/feather-pen-2.png",
-        "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+        "title": "Social Media Management",
+        "description": "My role at The Wild Bird Store showcases strategic collaboration. I align social media and web strategies with business goals, ensuring a cohesive online presence. Dynamic content creation using Canva enhances engagement on platforms like Facebook, Twitter, and Instagram. I lead responsive redesign projects on WordPress, integrating plugins for optimal functionality, and analyze metrics for informed data-driven decision-making."
     },
     {
         "id": 4,
         "src": "./img/feather-pen-1.png",
-        "title": "Web Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat."
+        "title": "Soft Skills",
+        "description": "With over five years in customer service, predominantly in the hospitality sector, I've developed exceptional time management and problem-solving abilities. Effective oral and written communication skills enable me to convey complex technical concepts and collaborate seamlessly within a team. My holistic approach to projects encompasses not only technical proficiency but also strategic collaboration, data-driven decision-making, and an emphasis on user experience."
+    }
+    ],"tech-stack": [
+        {
+        "id": 1,
+        "src": "./img/html5-original-wordmark.svg"
+    }, 
+    {
+        "id": 2,
+        "src": "./img/css3-original-wordmark.svg"
+    },
+    {
+        "id": 3,
+        "src": "./img/javascript-original.svg"
+    },
+    {
+        "id": 4,
+        "src": "./img/java-original-wordmark.svg"
+    },
+    {
+        "id": 5,
+        "src": "./img/csharp-original.svg"
+    },
+    {
+        "id": 6,
+        "src": "./img/typescript-original.svg"
+    },
+    {
+        "id": 7,
+        "src": "./img/mysql-original-wordmark.svg"
+    },
+    {
+        "id": 8,
+        "src": "./img/mongodb-original-wordmark.svg"
+    },
+    {
+        "id": 9,
+        "src": "./img/firebase-plain-wordmark.svg"
+    },
+    {
+        "id": 10,
+        "src": "./img/figma-original.svg"
+    },
+    {
+        "id": 11,
+        "src": "./img/xd-line.svg"
+    },
+    {
+        "id": 12,
+        "src": "./img/canva-original.svg"
+    },
+    {
+        "id": 13,
+        "src": "./img/wordpress-original.svg"
+    },
+    {
+        "id": 14,
+        "src": "./img/dot-net-original-wordmark.svg"
+    },
+    {
+        "id": 15,
+        "src": "./img/bootstrap-original-wordmark.svg"
+    },
+    {
+        "id": 16,
+        "src": "./img/react-original-wordmark.svg"
+    },
+    {
+        "id": 17,
+        "src": "./img/express-original-wordmark.svg"
+    },
+    {
+        "id": 18,
+        "src": "./img/github-original-wordmark.svg"
+    },
+    {
+        "id": 19,
+        "src": "./img/git-original-wordmark.svg"
+    },
+    {
+        "id": 20,
+        "src": "./img/azure-original-wordmark.svg"
+    },
+    {
+        "id": 21,
+        "src": "./img/visualstudio-plain-wordmark.svg"
+    },
+    {
+        "id": 22,
+        "src": "./img/vscode-original-wordmark.svg"
+    },
+    {
+        "id": 23,
+        "src": "./img/intellij-original-wordmark.svg"
     }
     ],
     "portfolio": [

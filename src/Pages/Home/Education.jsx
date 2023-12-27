@@ -5,7 +5,7 @@ export default function Education() {
     <section className="education--section" id="education">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Education</p>
+          <p className="sub--title"></p>
           <h2 className="section--heading">Education</h2>
         </div>
       </div>

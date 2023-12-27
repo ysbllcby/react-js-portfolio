@@ -1,12 +1,12 @@
 import data from "../../data/index.json";
 
-export default function Education() {
+export default function Experience() {
   return (
-    <section className="education--section" id="education">
+    <section className="education--section" id="experience">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Experience</p>
-          <h2 className="section--heading">Experience</h2>
+          <p className="sub--title"></p>
+          <h2 className="section--heading">Experiences</h2>
         </div>
       </div>
       <div className="education--section--container">
@@ -19,9 +19,9 @@ export default function Education() {
                 alt="School logo"
               />
               <div>
-                <p className="info education--school--name">{item.company}</p>
+                <p className="info education--school--name">{item.position}</p>
+                <p className="info">{item.company}</p>
                 <p className="info">{item.location}</p>
-                <p className="info">{item.position}</p>
                 <p className="info">{item.date}</p>
                 <p className="info">{item.description}</p>
               </div>

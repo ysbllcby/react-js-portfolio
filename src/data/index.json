@@ -2,9 +2,9 @@
     "skills": [
         {
         "id": 1,
-        "src": "./img/product-chain-1.png",
+        "src": "./img/feather-pen-1.png",
         "title": "Front-End",
-        "description": "Crafting engaging user experiences with HTML, CSS, and JavaScript. Proficient in design tools like Figma and Adobe XD, I bring a keen eye for user interface aesthetics. My projects often involve frameworks such as jQuery and Bootstrap, creating visually appealing and responsive web applications. Additionally, I leverage my skills in Canva for dynamic content creation, enhancing the visual aspects of social media platforms."
+        "description": "Crafting engaging user experiences with HTML, CSS, and JavaScript. Proficient in design tools like Canva, Figma and Adobe XD, I bring a keen eye for user interface aesthetics. My projects often involve frameworks such as jQuery and Bootstrap, creating visually appealing and responsive web applications. Additionally, I leverage my skills in Canva for dynamic content creation, enhancing the visual aspects of social media platforms."
     }, 
     {
         "id": 2,
@@ -20,126 +20,87 @@
     },
     {
         "id": 4,
-        "src": "./img/feather-pen-1.png",
+        "src": "./img/product-chain-1.png",
         "title": "Soft Skills",
-        "description": "With over five years in customer service, predominantly in the hospitality sector, I've developed exceptional time management and problem-solving abilities. Effective oral and written communication skills enable me to convey complex technical concepts and collaborate seamlessly within a team. My holistic approach to projects encompasses not only technical proficiency but also strategic collaboration, data-driven decision-making, and an emphasis on user experience."
+        "description": "With over seven years in customer service, predominantly in the hospitality sector, I've developed exceptional time management and problem-solving abilities. Effective oral and written communication skills enable me to convey complex technical concepts and collaborate seamlessly within a team. My holistic approach to projects encompasses not only technical proficiency but also strategic collaboration, data-driven decision-making, and an emphasis on user experience."
     }
     ],"tech-stack": [
         {
-        "id": 1,
-        "src": "./img/html5-original-wordmark.svg"
-    }, 
-    {
-        "id": 2,
-        "src": "./img/css3-original-wordmark.svg"
-    },
-    {
-        "id": 3,
-        "src": "./img/javascript-original.svg"
-    },
-    {
-        "id": 4,
-        "src": "./img/java-original-wordmark.svg"
-    },
-    {
-        "id": 5,
-        "src": "./img/csharp-original.svg"
-    },
-    {
-        "id": 6,
-        "src": "./img/typescript-original.svg"
-    },
-    {
-        "id": 7,
-        "src": "./img/mysql-original-wordmark.svg"
-    },
-    {
-        "id": 8,
-        "src": "./img/mongodb-original-wordmark.svg"
-    },
-    {
-        "id": 9,
-        "src": "./img/firebase-plain-wordmark.svg"
-    },
-    {
-        "id": 10,
-        "src": "./img/figma-original.svg"
-    },
-    {
-        "id": 11,
-        "src": "./img/xd-line.svg"
-    },
-    {
-        "id": 12,
-        "src": "./img/canva-original.svg"
-    },
-    {
-        "id": 13,
-        "src": "./img/wordpress-original.svg"
-    },
-    {
-        "id": 14,
-        "src": "./img/dot-net-original-wordmark.svg"
-    },
-    {
-        "id": 15,
-        "src": "./img/bootstrap-original-wordmark.svg"
-    },
-    {
-        "id": 16,
-        "src": "./img/react-original-wordmark.svg"
-    },
-    {
-        "id": 17,
-        "src": "./img/express-original-wordmark.svg"
-    },
-    {
-        "id": 18,
-        "src": "./img/github-original-wordmark.svg"
-    },
-    {
-        "id": 19,
-        "src": "./img/git-original-wordmark.svg"
-    },
-    {
-        "id": 20,
-        "src": "./img/azure-original-wordmark.svg"
-    },
-    {
-        "id": 21,
-        "src": "./img/visualstudio-plain-wordmark.svg"
-    },
-    {
-        "id": 22,
-        "src": "./img/vscode-original-wordmark.svg"
-    },
-    {
-        "id": 23,
-        "src": "./img/intellij-original-wordmark.svg"
-    }
+            "category": "Frontend",
+            "technologies": [
+                { "id": 1, "name": "HTML5", "src": "./img/html5-original-wordmark.svg" },
+                { "id": 2, "name": "CSS3", "src": "./img/css3-original-wordmark.svg" },
+                { "id": 3, "name": "JavaScript", "src": "./img/javascript-original.svg" },
+                { "id": 6, "name": "TypeScript", "src": "./img/typescript-original.svg" },
+                { "id": 10, "name": "Figma", "src": "./img/figma-original.svg" },
+                { "id": 11, "name": "Adobe XD", "src": "./img/xd-line.svg" },
+                { "id": 12, "name": "Canva", "src": "./img/canva-original.svg" },
+                { "id": 13, "name": "WordPress", "src": "./img/wordpress-original.svg" },
+                { "id": 16, "name": "React", "src": "./img/react-original-wordmark.svg" }
+            ]
+        },
+        {
+            "category": "Backend",
+            "technologies": [
+                { "id": 4, "name": "Java", "src": "./img/java-original-wordmark.svg" },
+                { "id": 5, "name": "C#", "src": "./img/csharp-original.svg" },
+                { "id": 17, "name": "Express.js", "src": "./img/express-original-wordmark.svg" }
+            ]
+        },
+        {
+            "category": "Databases",
+            "technologies": [
+                { "id": 7, "name": "MySQL", "src": "./img/mysql-original-wordmark.svg" },
+                { "id": 8, "name": "MongoDB", "src": "./img/mongodb-original-wordmark.svg" },
+                { "id": 9, "name": "Firebase", "src": "./img/firebase-plain-wordmark.svg" }
+            ]
+        },
+        {
+            "category": "Frameworks",
+            "technologies": [
+                { "id": 14, "name": ".NET", "src": "./img/dot-net-original-wordmark.svg" },
+                { "id": 15, "name": "Bootstrap", "src": "./img/bootstrap-original-wordmark.svg" }
+            ]
+        },
+        {
+            "category": "Version Control",
+            "technologies": [
+                { "id": 18, "name": "GitHub", "src": "./img/github-original-wordmark.svg" },
+                { "id": 19, "name": "Git", "src": "./img/git-original-wordmark.svg" }
+            ]
+        },
+        {
+            "category": "Development Tools",
+            "technologies": [
+                { "id": 20, "name": "Azure", "src": "./img/azure-original-wordmark.svg" },
+                { "id": 21, "name": "Visual Studio", "src": "./img/visualstudio-plain-wordmark.svg" },
+                { "id": 22, "name": "VS Code", "src": "./img/vscode-original-wordmark.svg" },
+                { "id": 23, "name": "IntelliJ", "src": "./img/intellij-original-wordmark.svg" }
+            ]
+        }    
     ],
     "portfolio": [
         {
         "id": 1,
-        "src": "./img/placeholder-image.png",
-        "title": "Ahuse",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.",
-        "link": "View in GitHub"
+        "src": "./img/pos.png",
+        "title": "BiteByte Point-of-Sale System",
+        "description": "Collaborated on a team project from August to December 2023 to develop a small-scale Point-Of-Sales (POS) System. Key contributions include designing and implementing a secure database system, creating a functional backend using C# .NET, and ensuring thorough testing of all functionalities. The system prioritized basic features, high maintainability, and a user-friendly interface. Technical proficiencies encompassed UI design in Figma, development using Visual Studio 2022, MySQL Workbench, and VMWare. Web development skills involved C# .NET, WPF, and Typescript, supported by various frameworks and dependencies for a comprehensive POS solution.",
+        "link": "https://github.com/BiteByte-Capstone/POS_System"
 
-    }, 
-    {
-        "id": 2,
-        "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.",
-        "link": "View in GitHub"
     },
     {
+        "id": 2,
+        "src": "./img/soffit.png",
+        "title": "Soffit Hanger Website",
+        "description": "I spearheaded the redesign of the Soffit Hanger website, prioritizing enhanced accessibility and ensuring seamless responsiveness across devices. The overhaul involved meticulous attention to detail, focusing on the use of precise language to improve user comprehension. By carefully selecting words that resonate with the target audience, the website now offers a more user-friendly experience, making it easier for visitors to understand the product offerings. Additionally, the redesign optimizes visibility for all products, creating an intuitive browsing experience that aligns with modern design standards.",
+        "link": "https://www.soffithanger.com/"
+    }, 
+    {
         "id": 3,
-        "src": "./img/placeholder-image-2.png",
-        "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.",
-        "link": "View in GitHub"
+        "src": "./img/lushlash.png",
+        "title": "Lush Lash Website",
+        "description": "I initiated the development of the LushLash website for a client seeking a user-friendly platform that she could effortlessly maintain. In crafting the foundational structure, I designed a website that empowers the client with the flexibility to make updates effortlessly. From simple changes in color schemes, styles, and images to real-time updates in product prices, the website is tailored to provide a seamless and intuitive experience for ongoing maintenance. By prioritizing ease of use, I ensured that my client not only received a customized and visually appealing website initially but also possesses the autonomy to adapt and refine it according to evolving needs.",
+        "link": "https://ynaartistry.square.site/"
     }
     ],
     "education": [

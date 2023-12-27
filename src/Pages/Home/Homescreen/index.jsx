@@ -6,14 +6,14 @@ import Education from "../Education";
 import Experience from "../Experience";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";
-import TechStack from "../TechStack";
+import Technologies from "../Technologies";
 
 export default function Home() {
   return (
     <>
       <HeroSection />
       <MySkills />
-      <TechStack />
+      <Technologies />
       <AboutMe />
       <Education />
       <Experience />

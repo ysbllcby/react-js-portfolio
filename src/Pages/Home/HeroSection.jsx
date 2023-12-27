@@ -1,3 +1,6 @@
+import { HiOutlineMail } from "react-icons/hi";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
+
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
@@ -10,11 +13,8 @@ export default function HeroSection() {
             </span>
           </h1>
           <p className="hero--section-description">
-            Hi! I'm Ysa!
-            <br />
-            <br />
-            A passionate software developer based in the sunny city of Calgary,
-            AB.
+            Hi! I'm Ysa, a passionate software developer based in the sunny city
+            of Calgary, AB.
             <br />
             <br /> Driven by a love for crafting digital solutions, I specialize
             in building exceptional websites and applications that seamlessly
@@ -23,7 +23,23 @@ export default function HeroSection() {
             captivating digital experiences.
           </p>
         </div>
-        <button className="btn btn-primary">Get in touch</button>
+        <div className="contact--buttons">
+          <a href="mailto:ysabellacubay@gmail.com" className="btn btn-primary">
+            <HiOutlineMail />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/ysbllcby/"
+            className="btn btn-primary"
+          >
+            <FaLinkedin />
+          </a>
+          <a href="https://github.com/ysbllcby" className="btn btn-primary">
+            <FaGithub />
+          </a>
+        </div>
+        <a href="./img/Resume.pdf" download="Resume.pdf">
+          <button className="btn btn-primary">Download Resume</button>
+        </a>
       </div>
       <div className="hero--section-img">
         <img src="./img/hero_img.png" alt="Hero Section" />
